@@ -1,0 +1,2 @@
+[console_scripts]
+factorio-achievement-unlocker = factorio_achievement_unlocker.cli:main
