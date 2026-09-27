@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+*.tmp
+
+# Local reference material supplied for this project; never package it.
+/FAE_Linux-master/
+/FactorioAchievementEnabler-master/
